@@ -8,6 +8,6 @@
   </style>
  </head>
  <body>
-  <p>Страница на HTML5</p>
+  <p>Страница ИЗМЕНЕНА  на HTML5</p>
  </body>
 </html> 
